@@ -1,2 +1,3 @@
-# tugas-python-1a
+# Tugas python
+
 Sui chan kawaii!!
