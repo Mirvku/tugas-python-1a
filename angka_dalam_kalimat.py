@@ -1,5 +1,12 @@
 from terbilang import Terbilang
 
+"""
+
+Disini saya menggunakan library, untuk memudahkan pembuatan aplikasi
+dan mempersingkat code.
+
+"""
+
 t = Terbilang()
 
 angka = input("Masukkan sebuah angka (maks 4 digit) : ")
